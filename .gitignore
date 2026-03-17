@@ -1,0 +1,49 @@
+# === IDM Accelerator Suite - Git Exclusion Map ===
+
+# [Build Results]
+*.exe
+*.dll
+*.lib
+*.exp
+*.msi
+*.pdb
+
+# [Visual Studio Intermediate Files]
+.vs/
+x64/
+x86/
+Debug/
+Release/
+*.sdf
+*.opensdf
+*.suo
+*.user
+*.filters
+*.ipch
+*.aps
+
+# [Compiler & Linker Junk]
+*.obj
+*.ilk
+*.log
+*.tlog
+*.lastbuildstate
+*.unsuccessfulbuild
+*.recipe
+
+# [Registry & Temp Backups]
+*.reg
+*.bak
+*.tmp
+*.old
+Backup/
+
+# [System Artifacts]
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# [Project Specifics]
+# Игнорируем файлы, которые пользователь должен создать сам (например, список прокси или свои логи)
+logs.txt
+config_local.ini
